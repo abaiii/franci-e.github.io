@@ -2,7 +2,7 @@
 My personal website!
 
 ## Open-source projects used / codes referred
-- (TextFill)[https://jquery-textfill.github.io/], licensed under MIT.
+- [TextFill](https://jquery-textfill.github.io/), licensed under MIT.
 ```
 - Copyright (c) 2009-2018 Russ Painter (GeekyMonkey)
 - Copyright (c) 2012-2013 Yu-Jie Lin
@@ -25,7 +25,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-- (KaTeX)[https://katex.org], licensed under MIT.
+- [KaTeX](https://katex.org), licensed under MIT.
 ```
 The MIT License (MIT)
 
@@ -50,5 +50,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-- (Font Awesome)[https://fontawesome.com/], with fonts licensed under SIL OFL 1.0 and the code licensed under MIT.
-- (jQuery)[https://jquery.com], licensed under MIT.
+- [Font Awesome](https://fontawesome.com/), with fonts licensed under SIL OFL 1.0 and the code licensed under MIT.
+- [jQuery](https://jquery.com), licensed under MIT.
